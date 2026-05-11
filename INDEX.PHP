@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>GLAC</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+</head>
+<body>
+<h1 class="text-center">FUNDACION NUEVO RENACER</h1>
+<h2 class="text-center">GRUPOS LOCALES DE AHORRO Y CREDITO</h2>
+<div class="container">
+
+    <!-- Municipio Tierralta o Valencia -->
+    <div class="card">
+        <h2 class="text-center">MUNICIPIO</h2>
+        <button onclick class="btn btn-primary"><h1>VALENCIA</h1></button>
+        <button onclick class="btn btn-success"><h1>TIERRALTA</h1></button>
+    </div>
+
+
+<script src="app.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+</body>
+</html>
